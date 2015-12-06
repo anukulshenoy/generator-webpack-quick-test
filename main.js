@@ -1,5 +1,5 @@
 let init = () => {
-  alert('Wor');
+  alert('Working');
   console.log('Working...');
 };
 init();
