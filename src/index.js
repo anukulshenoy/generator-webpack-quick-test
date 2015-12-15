@@ -1,6 +1,6 @@
 'use strict';
 let init = () => {
-  document.alert('Working');
+  window.alert('Working');
   console.log('Working...');
 };
 init();
